@@ -7,21 +7,21 @@
 
 ## Contents
 
-- [01_graph_of_x_p_model_3_1.ipynb](01_graph_of_x_p_model_3_1.ipynb)
-- [02_model_3_2.ipynb](02_model_3_2.ipynb)
+- [01_graph_of_x_p_model_3_1.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/01_graph_of_x_p_model_3_1.ipynb)
+- [02_model_3_2.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/02_model_3_2.ipynb)
 - [02_model_3_2.py](02_model_3_2.py)
-- [03_slope_model_3_2.ipynb](03_slope_model_3_2.ipynb)
-- [04_model_3_3.ipynb](04_model_3_3.ipynb)
-- [05_N_phi_model_3_3.ipynb](05_N_phi_model_3_3.ipynb)
-- [06_model_3_4.ipynb](06_model_3_4.ipynb)
+- [03_slope_model_3_2.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/03_slope_model_3_2.ipynb)
+- [04_model_3_3.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/04_model_3_3.ipynb)
+- [05_N_phi_model_3_3.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/05_N_phi_model_3_3.ipynb)
+- [06_model_3_4.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/06_model_3_4.ipynb)
 - [06_model_3_4.py](06_model_3_4.py)
-- [07_model_3_4_1.ipynb](07_model_3_4_1.ipynb)
-- [08_model_3_4_2.ipynb](08_model_3_4_2.ipynb)
+- [07_model_3_4_1.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/07_model_3_4_1.ipynb)
+- [08_model_3_4_2.ipynb](http://nbviewer.ipython.org/github/ssh0/sotsuron_for_public/blob/master/08_model_3_4_2.ipynb)
 - [08_model_3_4_2.py](08_model_3_4_2.py)
 
 ## License
-- [MIT License](https://ja.wikipedia.org/wiki/MIT_License)
+- [MIT License](https://ja.wikipedia.org/wiki/MIT_License)  
     一言連絡をくだされば、どのように再利用してくださっても結構です。
 
 ## Author
-- 藤本將太郎(Shotaro Fujimoto)[ssh0](https://github.com/ssh0)
+- 藤本將太郎(Shotaro Fujimoto): [ssh0](https://github.com/ssh0)
