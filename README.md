@@ -21,7 +21,7 @@
 
 ## License
 - [MIT License](https://ja.wikipedia.org/wiki/MIT_License)  
-    一言連絡をくだされば、どのように再利用してくださっても結構です。
+    どのように再利用してくださっても結構です。
 
 ## Author
 - 藤本將太郎(Shotaro Fujimoto): [ssh0](https://github.com/ssh0)
